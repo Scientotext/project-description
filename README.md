@@ -2,6 +2,9 @@
 ## Goal of the Project
 Design of a Sciento-text Computational Framework for Retrieval and Contextual Recommendations of High Quality Scholarly Articles.
 
+## Project Member
+* Department of Computer Science - Banaras Hindu University - Varanasi
+* GESIS - Leibniz Institute for the Social Sciences - Department of Knowledge Technologies - Cologne
 
 ## Scientific objectives and individual components of the joint project:
 The project aims to design a computational framework for retrieval of high quality scholarly articles and obtaining recommendations in a given research/ semantic context. The broader idea is to bring together concepts from Information Retrieval and Scientometrics to identify scholarly articles relevant to a given information need (or a context) and rank them based on their relevance to the information need as well as their scholarly quality. 
