@@ -28,3 +28,8 @@ The proposed framework can generate two kinds of results. First, it can retrieve
 
 ## Indo-German co-operation 
 The project will involve close collaboration and joint work between Indian and German sides. While, the Indian side has experience of working on Text Analytics of scholarly articles and Learning resource recommendation, the German side has sufficient expertise of applying the Scientometrics and Informetrics techniques for Information retrieval in Scholarly article domain. It is necessary to bring together methodologies from Information Retrieval and Scientometrics and fuse them together to design a suitable retrieval and recommendation system as proposed in the project. The collaboration is expected to from a long term association among the two research groups and to promote bilateral research cooperation among the two countries by exchange of ideas, know-how, research staff and sharing of resources. In due course academic collaboration agreements, involving joint research projects and other collaborative activities, between participating Indian and German institutions will be explored.
+
+## Funding
+DST - DAAD Project-based Personnel Exchange Programme (PPP).
+
+DAAD project number: 57318047
