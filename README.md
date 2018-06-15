@@ -9,8 +9,8 @@ Design of a Sciento-text Computational Framework for Retrieval and Contextual Re
 ## Research staff 
 * Dr Vivek Kumar Singh (Banaras Hindu University)
 * Ashraf Uddin (South Asian University)
-* Rajesh Piryani
-* Sumit Banshal 
+* Rajesh Piryani (South Asian University)
+* Sumit Banshal (South Asian University)
 
 * Dr Philipp Mayr (GESIS)
 * Behnam Ghavimi (GESIS)
